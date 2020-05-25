@@ -16,6 +16,8 @@ NEWSPIDER_MODULE = 'demo.spiders'
 
 test = 'modified on 20200525 11:00'
 
+test1 = 'modified on 20200525 11:17'
+
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
